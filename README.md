@@ -1,6 +1,7 @@
 # Robotics_ATHENS_UPM
 
 Code developed during ATHENS course Robotics Applications with ROS2: From Basics to Integration.
+
 Hardware:
 - Microcontroller (Nucleo-STM32-F466RE)
 - Motor Driver (X-NUCLEO-IHM04A1)
