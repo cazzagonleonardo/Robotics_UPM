@@ -1,6 +1,6 @@
 # Robotics_ATHENS_UPM
 
-Code developed during ATHENS course Robotics Applications with ROS2: From Basics to Integration.
+Code developed during ATHENS course Robotics Applications with ROS2: From Basics to Integration, held in march 2025 at Universidad Politecnica de Madrid (UPM).
 
 Hardware:
 - Microcontroller (Nucleo-STM32-F466RE)
